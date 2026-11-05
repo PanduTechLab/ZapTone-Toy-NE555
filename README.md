@@ -33,7 +33,7 @@ The pitch changes with skin resistance (dry, wet, light or firm touch), which ma
 
 ## 🔌 2. NE555 Basic Connection Diagram (Astable, body as R2)
 
-![NE555 circuit diagram](circuit-diagram.png)
+![NE555 circuit diagram](NE555 Basic Circuit.avif)
 
 **Wiring summary:** `Vcc → R1 → pin 7 → Touch Pad A` ⟶ *(body)* ⟶ `Touch Pad B → pins 6 & 2 → C (1 nF) → GND`
 
