@@ -2,7 +2,7 @@
 
 > A fun, beginner-friendly **toy** built around the **NE555P timer IC**. Touch the two metal pads with your fingers and **your own body becomes resistor R2** of an astable oscillator, making a passive piezo buzzer sing. Wetter fingers = lower resistance = higher pitch!
 
-![Circuit Diagram](images/circuit-diagram.png)
+![Circuit Diagram](circuit-diagram.png)
 
 ---
 
@@ -33,7 +33,7 @@ The pitch changes with skin resistance (dry, wet, light or firm touch), which ma
 
 ## 🔌 2. NE555 Basic Connection Diagram (Astable, body as R2)
 
-![NE555 circuit diagram](images/circuit-diagram.png)
+![NE555 circuit diagram](circuit-diagram.png)
 
 **Wiring summary:** `Vcc → R1 → pin 7 → Touch Pad A` ⟶ *(body)* ⟶ `Touch Pad B → pins 6 & 2 → C (1 nF) → GND`
 
@@ -41,7 +41,7 @@ The pitch changes with skin resistance (dry, wet, light or firm touch), which ma
 
 ## 🧩 3. Block Diagram
 
-![Block diagram](images/block-diagram.png)
+![Block diagram](block-diagram.png)
 
 ```
 Battery ─► NE555 Astable Oscillator ─► Output (Pin 3) ─► Passive Piezo Buzzer
@@ -165,7 +165,7 @@ With R1 = 1 kΩ and C = 1 nF:
 
 ## 🤝 Connect With Me
 
-- ▶️ **YouTube:** [Your Channel Name](https://www.youtube.com/@YOUR_CHANNEL)
-- 📸 **Instagram:** [@your_instagram](https://www.instagram.com/YOUR_INSTAGRAM)
+- ▶️ **YouTube:** [PanduTechLab](https://youtube.com/@pandustechlab)
+- 📸 **Instagram:** [@PanduTechLab](https://www.instagram.com/pandutechlab/)
 
 If you like this project, give it a ⭐ and subscribe for more electronics toys!
