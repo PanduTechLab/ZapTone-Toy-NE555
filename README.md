@@ -163,7 +163,7 @@ With R1 = 1 kΩ and C = 1 nF:
 
 ## 🤝 Connect With Me
 
-- ▶️ **YouTube:** [PanduTechLab](https://youtube.com/@pandustechlab)
+- ▶️ **YouTube:** [@PanduTechLab](https://youtube.com/@pandustechlab)
 - 📸 **Instagram:** [@PanduTechLab](https://www.instagram.com/pandutechlab/)
 
 If you like this project, give it a ⭐ and subscribe for more electronics toys!
